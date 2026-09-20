@@ -215,4 +215,4 @@ CloseAll is offered as a full free version with all features and updates include
 Take control of your desktop today! Download CloseAll for free and experience unparalleled efficiency in managing your open windows.
 
 ---
-**Last updated:** 2026-09-19 22:47:11 UTC
+**Last updated:** 2026-09-20 00:51:09 UTC
